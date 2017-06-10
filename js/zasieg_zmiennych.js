@@ -5,6 +5,8 @@ var jurek = 5000;
 var jola = 7000;
 var sergio = 2500;
 
+var sumaKasy;
+
 function policzSumaKasy(skladowa1, skladowa2, skladowa3, skladowa4) {
     var sumaKasy;
     sumaKasy = skladowa1 + skladowa2 + skladowa3 + skladowa4;
